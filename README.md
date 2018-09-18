@@ -19,24 +19,22 @@
 6. Sử dụng ArrayList
 7. Sử dụng RecyclerView, custom Adapter
 8. Vòng đời của Fragment, sử dụng Fragment
-9. Sqlite trong android
-10. Sử dụng Intent để chuyển activity
-11. Tìm hiểu các loại dialog: ArletDialog, DialogFragment, cách custom dialog
-12. Cách sử dụng AndroidManifest
-13. Tìm hiểu các permission trong android, như quyền đọc danh bạ, quyền đọc ghi bộ nhớ...
-
+9. Sử dụng Intent để chuyển activity
+10. Tìm hiểu các loại dialog: ArletDialog, DialogFragment, cách custom dialog
+11. Cách sử dụng AndroidManifest
+12. Tìm hiểu các permission trong android, như quyền đọc danh bạ, quyền đọc ghi bộ nhớ...
+13. Sqlite trong android
 
 # Những kiến thức nâng cao về android
-1. Cách sử dụng thư viện glide
-2. Call api sử dụng thư viện Retrofit2 và gson
-3. Cách sử dụng tool: http://www.jsonschema2pojo.org/ để convert json sang đối tượng java
-4. OkHttp
-5. Shared Preferences
-6. Tìm hiểu về lớp Application
-7. Cách sử dụng interface
-8. Sử dụng mô hình MVP trong android
-9. Service và Boardcast receiver
-10. Cách sử dụng thư viện Room để thay thế cho Sqlite
+1. Call api sử dụng thư viện Retrofit2 và gson
+2. Cách sử dụng tool: http://www.jsonschema2pojo.org/ để convert json sang đối tượng java
+3. OkHttp
+4. Shared Preferences
+5. Tìm hiểu về lớp Application
+6. Cách sử dụng interface
+7. Sử dụng mô hình MVP trong android
+8. Service và Boardcast receiver
+9. Cách sử dụng thư viện Room để thay thế cho Sqlite
 
 
 # Bài tập thực hành cơ bản
@@ -48,6 +46,6 @@
 
 
 # Bài tập thực hành nâng cao
-1. Xây dựng app đơn giản lấy dữ liệu từ api sau: https://jsonplaceholder.typicode.com/photos . Trong api gồm có title, url ảnh và url thumb ảnh. Sử dụng **retrofit2** và **gson** để lấy dữ liệu về, hiện thị dữ liệu lên **RecyclerView**, dùng thư viện glide để hiển thị ảnh từ dữ liệu đã lấy về. Mỗi item sẽ hiện title và ảnh thumb trong api, khi click vào mỗi item sẽ chuyển sang màn hình khác hiển thị ảnh đầy đủ.
+1. Xây dựng app đơn giản lấy dữ liệu từ api sau: https://jsonplaceholder.typicode.com/photos . Trong api gồm có title, url ảnh và url thumb ảnh. Sử dụng **retrofit2** và **gson** để lấy dữ liệu về, hiện thị dữ liệu lên **RecyclerView**, có thể dùng thư viện glide để hiển thị ảnh từ dữ liệu đã lấy về. Mỗi item sẽ hiện title và ảnh thumb trong api, khi click vào mỗi item sẽ chuyển sang màn hình khác hiển thị ảnh đầy đủ.
 2. Xây dựng app giống như bài 5 phần cơ bản, nhưng thay **Sqlite** bằng thư viện **Room** để lưu CSDL, sử dụng interface để truyền dữ liệu nhập vào từ dialog về màn hình 1.
 3. Xây dựng app giống bài 1 sử dụng **mô hình MVP**
