@@ -31,8 +31,8 @@
 3. OkHttp
 4. Shared Preferences
 5. Tìm hiểu về lớp Application
-7. Sử dụng mô hình MVP trong android
-8. Service và Boardcast receiver
+6. Sử dụng mô hình MVP trong android
+7. Service và Boardcast receiver
 
 
 # Bài tập thực hành cơ bản
