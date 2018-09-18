@@ -31,10 +31,8 @@
 3. OkHttp
 4. Shared Preferences
 5. Tìm hiểu về lớp Application
-6. Cách sử dụng interface
 7. Sử dụng mô hình MVP trong android
 8. Service và Boardcast receiver
-9. Cách sử dụng thư viện Room để thay thế cho Sqlite
 
 
 # Bài tập thực hành cơ bản
@@ -47,5 +45,4 @@
 
 # Bài tập thực hành nâng cao
 1. Xây dựng app đơn giản lấy dữ liệu từ api sau: https://jsonplaceholder.typicode.com/photos . Trong api gồm có title, url ảnh và url thumb ảnh. Sử dụng **retrofit2** và **gson** để lấy dữ liệu về, hiện thị dữ liệu lên **RecyclerView**, có thể dùng thư viện glide để hiển thị ảnh từ dữ liệu đã lấy về. Mỗi item sẽ hiện title và ảnh thumb trong api, khi click vào mỗi item sẽ chuyển sang màn hình khác hiển thị ảnh đầy đủ.
-2. Xây dựng app giống như bài 5 phần cơ bản, nhưng thay **Sqlite** bằng thư viện **Room** để lưu CSDL, sử dụng interface để truyền dữ liệu nhập vào từ dialog về màn hình 1.
-3. Xây dựng app giống bài 1 sử dụng **mô hình MVP**
+2. Xây dựng app giống bài 1 sử dụng **mô hình MVP**
