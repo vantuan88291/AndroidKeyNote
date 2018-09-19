@@ -1,5 +1,5 @@
 
-##10 ngày trainning android
+#10 ngày trainning android
 
 # Ngày 1(Thiết lập môi trường, thực hành cơ bản):
 - Cài đặt android studio (bao gồm cả jdk), máy ảo android (1h)
